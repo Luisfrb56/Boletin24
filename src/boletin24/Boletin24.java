@@ -1,0 +1,12 @@
+package boletin24;
+
+
+public class Boletin24 {
+
+
+    public static void main(String[] args) {
+Ejercicio1 ejer=new Ejercicio1();
+
+    }
+    
+}
